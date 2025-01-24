@@ -1,2 +1,3 @@
 # AIML_Application
-Projects Based on the application of Ai&amp;ML
+Projects Based on the application of Machine Learning.
+
